@@ -1,0 +1,2 @@
+# GenNode
+Assignment for POSist
